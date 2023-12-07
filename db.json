@@ -3,7 +3,8 @@
         {
             "id": "123123",
             "email": "phat.truong@asnet.com.vn",
-            "password": ""
+            "password": "",
+            "name": ""
         }
     ]
 }
